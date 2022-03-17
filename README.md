@@ -5,5 +5,5 @@ Invoke a component in uirouter state.
 
 ```
 npm install
-npm run demo
+npm start
 ```
